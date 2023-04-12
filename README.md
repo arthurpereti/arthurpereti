@@ -4,8 +4,11 @@
 
 <!-- Informarções -->
 - 🔭 Atualmente estou me tornando um programador Full Stack
-- 🌱 Estudando Html, Css, JavaScript e MySQL
+- 🌱 Estudando Html, Css, JavaScript, Node js e MySQL
 - 📫 Contate-me no email: arthurcoelho2005@outlook.com
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arthurpereti&bg_color=000000&color=00bfff&line=8a2be2&point=00bfff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Ícones das minhas habilidades -->
 ### Estudando no Momento:
