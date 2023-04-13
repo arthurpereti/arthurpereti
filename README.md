@@ -16,6 +16,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpereti&layout=compact&hide_border=true&title_color=8A2BE2&text_color=00bfff&bg_color=0d1117" />
 </div>
 
+<div> 
+  <a href="https://www.instagram.com/arthurpereti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arthurcoelho2005@outlook.com?subject=Me%20interessei%20no%20seu%20trabalho%20Arthur"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <!-- Ícones das minhas habilidades -->
 ### Estudando no Momento:
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
