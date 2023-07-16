@@ -4,7 +4,6 @@
 
 <!-- Informarções -->
 - 🔭 Atualmente estou me tornando um programador Full Stack
-- 🌱 Estudando Html, Css, JavaScript, Node js e MySQL
 - 📫 Contate-me no email: contatoarthurpereti@gmail.com
 
 <!-- Gráfico sobre os versionamentos durante o mês -->
