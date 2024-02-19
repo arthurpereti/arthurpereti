@@ -7,7 +7,7 @@
 - 📫 Contate-me no email: contatoarthurpereti@gmail.com
 
 <!-- Gráfico sobre os versionamentos durante o mês -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arthurpereti&bg_color=000000&color=00bfff&line=8a2be2&point=00bfff&area=true&hide_border=true)](https://github.com/arthurpereti?tab=repositories)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arthurpereti&bg_color=000000&color=00bfff&line=8a2be2&point=00bfff&area=true&hide_border=true)](https://github.com/arthurpereti?tab=repositories) -->
 
 <!-- Estátisticas do Perfil -->
 <div align="center">  
