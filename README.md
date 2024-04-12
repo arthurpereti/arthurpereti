@@ -22,10 +22,9 @@
   <a href="https://www.linkedin.com/in/arthurpereti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!-- Ícones das minhas habilidades -->
-### Tecnologias já Utilizadas:
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+<!--### Tecnologias já Utilizadas-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ansible,git,github)](https://skillicons.dev)
+  </a>
+</p>
