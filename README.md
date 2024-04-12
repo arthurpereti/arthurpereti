@@ -25,6 +25,6 @@
 <!--### Tecnologias já Utilizadas-->
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,ansible,netlify,git,github">
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,windows,linux,ansible,netlify,git,github">
   </a>
 </p>
