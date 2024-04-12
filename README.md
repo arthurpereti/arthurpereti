@@ -25,6 +25,6 @@
 <!--### Tecnologias já Utilizadas-->
 <p align="center">
   <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,ansible,git,github)](https://skillicons.dev)
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ansible,git,github">
   </a>
 </p>
