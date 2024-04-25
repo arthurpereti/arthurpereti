@@ -1,9 +1,9 @@
 <!-- Descrição rápida com as letras animadas -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Arthur+Pereti;Tenho+17+anos;Curso+o+3°+ano+do+Ensino+Médio;Integrado+com+Desenvolvimento+de+Sistemas;No+SESI+SENAI+:%29)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Arthur+Pereti;Tenho+17+anos;Curso+o+3°+ano+do+Ensino+Médio;Integrado+com+Desenvolvimento+de+Sistemas;No+SESI+SENAI+:%29)](https://git.io/typing-svg) -->
 <!-- Curso+o+3°+ano+do+Ensino+Médio;Integrado+com+Desenvolvimento+de+Sistemas;No+SESI+SENAI -->
 
 <!-- Informarções -->
-- 🔭 Atualmente estou me tornando um programador Full Stack
+- 🔭 Atualmente estou me tornando um DevOps
 - 📫 Contate-me no email: contatoarthurpereti@gmail.com
 
 <!-- Gráfico sobre os versionamentos durante o mês -->
